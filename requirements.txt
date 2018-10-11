@@ -1,0 +1,5 @@
+install:
+-pip install-r requirements.txt
+-sudo apt update
+-sudo apt install -y python-pip
+-sudo apt install build-essential libssl-dev libffi-dev
