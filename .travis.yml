@@ -12,4 +12,6 @@ script:
   - python ex5.py
   - python ex6.py
   - python ex7.py
-  - pyhton ex8.py
+  - python ex8.py
+  - python ex9.py
+  - python ex10.py 
