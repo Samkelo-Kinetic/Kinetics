@@ -6,4 +6,5 @@ install:
   - pip install -r requirements.txt
 script:
   - python ex1.py
-  
+  - python ex2.py
+  - python ex3.py
