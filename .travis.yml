@@ -5,5 +5,5 @@ cache: pip
 install:
   - pip install -r requirements.txt
 script:
-  - python Python_Practice.py
+  - python tests.py
   
