@@ -21,4 +21,4 @@ script:
   - python ex14.py Sam < ex14_answer.txt
   - python ex15.py ex15_sample.txt < ex15_answer.txt
   - python ex16.py test.txt < ex16_answer.sh
-  - python ex17.py test.txt new_file.txt
+  - python ex17.py test.txt new_file.txt < ex17_answer.sh
