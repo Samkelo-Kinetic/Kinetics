@@ -1,4 +1,0 @@
-"Zed", "Shaw"
-'"Zed", "Shaw"
-"First!"
-I got nothing'
