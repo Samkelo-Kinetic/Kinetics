@@ -1,1 +1,1 @@
-Samkelo
+python python.ex14.py Samkelo
