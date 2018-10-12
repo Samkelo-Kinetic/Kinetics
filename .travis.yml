@@ -27,4 +27,5 @@ script:
   - python ex20.py test.txt
   - python ex21.py
   - python ex24.py
+  - python ex25.py
 
