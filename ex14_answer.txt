@@ -1,1 +1,1 @@
-python python.ex14.py Samkelo
+python.ex14.py Samkelo
