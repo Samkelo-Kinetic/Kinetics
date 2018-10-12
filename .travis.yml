@@ -22,4 +22,5 @@ script:
   - python ex15.py ex15_sample.txt < ex15_answer.txt
   - python ex16.py test.txt < ex16_answer.sh
   - python ex17.py test.txt new_file.txt < ex17_answer.sh
-  - python ex18.py < ex18_answer.txt
+  - python ex18.py
+  - python ex19.py
