@@ -19,5 +19,5 @@ script:
   - python ex12.py < testing.txt
   - python ex13.py < ex13_input.txt
   - python ex14.py Sam < ex14_answer.txt
-  - python ex15.py ex15_sample.txt < ex15_answer.txt
-  - python ex16.py ex16_answer.sh
+  - python ex15.py ex16_answer.sh
+  - python ex16.py 
