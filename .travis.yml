@@ -18,4 +18,4 @@ script:
   - python ex11.py < testing.txt
   - python ex12.py < testing.txt
   - python ex13.py < ex13_input.txt
-  - python ex14.py < ex14_answer.txt
+  - python ex14.py Sam < ex14_answer.txt
